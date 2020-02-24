@@ -33,3 +33,6 @@ projects:
 2016 - Epam courses of Java
 2018 - private courses by Evgeniy Vishnevetskiy - Android SDK
 2019 - Epam courses - Golang
+
+## English level
+A2/B1 (Pre-Intermediate/Intermediate)
